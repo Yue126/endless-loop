@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="endless_loop.cpp">
+    <ClCompile Include="endless_loop.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
